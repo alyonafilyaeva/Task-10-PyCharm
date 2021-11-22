@@ -14,7 +14,7 @@
 
 ![](https://github.com/alyonafilyaeva/Task-10-PyCharm/blob/main/profile/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2021-11-2021%20220739.jpg)
 
-Без ввода данных видна ощутимая разница в выполнении программ.
+Без ввода данных видна ощутимая разница в выполнении программ, благодаря выделению методов, использования библиотек и исправления ошибок.
 
 # Изображения
 
@@ -33,3 +33,15 @@
 Изображение после обработки  filter_with_filename.py:
 
 ![](https://github.com/alyonafilyaeva/Task-10-PyCharm/blob/main/imgs/yes.jpg)
+
+# Doc-тесты
+
+Doc-тест для функции get_gray: 
+![](https://github.com/alyonafilyaeva/Task-10-PyCharm/blob/main/tests/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2022-11-2021%20093234.jpg)
+
+Тест выполняется.
+В случае невыполнения:
+![](https://github.com/alyonafilyaeva/Task-10-PyCharm/blob/main/tests/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2022-11-2021%20093352.jpg)
+
+Для функции replace_pixels нет тестов, т.к функция ничего не возвращает.
+Для функции get_gray_img нет тестов, т.к функция возращает объект numpy
